@@ -448,7 +448,7 @@ Coming Soon
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/oluwasegun_j/oluwasegun-shobowale/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/oluwasegun_j/oluwasegun_j/output/github-contribution-grid-snake-dark.svg"/>
 
 <br/>
 
