@@ -28,7 +28,7 @@
 
   <text x="450" y="120" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#F5F7FF" letter-spacing="2">OLUWASEGUN SHOBOWALE</text>
 
-  <text x="450" y="160" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#93C5FD" letter-spacing="3">BUSINESS INTELLIGENCE · HEALTHCARE ANALYTICS · INSURANCE ANALYTICS</text>
+  <text x="450" y="160" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#93C5FD" letter-spacing="3">DATA ANALYST · BUSINESS INTELLIGENCE · AUDIT & RISK ANALYTICS</text>
 
   <rect x="325" y="182" width="250" height="1" fill="#2A3F73"/>
 
@@ -114,13 +114,15 @@ Founder, Medlytics
 <tr>
 <td width="900">
 
-Organizations don't struggle because they lack data — they struggle because raw data rarely arrives in a form anyone can act on. That's the gap I work in.
+I work at the intersection of data analytics, business intelligence, and risk-focused decision support — helping organizations turn complex operational and financial data into reliable evidence for better decisions.
 
-I help healthcare providers and insurers turn operational and financial noise into a small set of numbers leadership can trust and act on — the metric that tells a hospital where recovery outcomes are slipping, the ratio that tells an insurer which broker channel is quietly eroding margin, the dashboard that replaces a Monday-morning guessing game with a five-minute decision.
+My work involves cleaning, validating, reconciling, modelling and analysing data to uncover patterns, anomalies, performance gaps and potential areas of risk. I build analytical solutions that help answer not just what happened, but why it happened, where the exposure is, and what management should do next.
 
-That means reconciling data that shouldn't disagree but does, designing dimensional models that hold up as the business scales, and building executive reporting that survives contact with a boardroom. The tools — Power BI, SQL, DAX, Python — are how the work gets done. The outcome is what matters: **decisions made with confidence instead of intuition.**
+Using SQL, Power BI, DAX, Python and Advanced Excel, I develop dimensional data models, automated reporting solutions and executive dashboards that turn fragmented data into structured, decision-ready information.
 
-I also train the next wave of analysts, because clarity of explanation and clarity of thought are the same skill.
+I have worked across healthcare, insurance, operations and business analytics, including claims and financial analysis, performance monitoring, customer analytics and operational reporting. My projects often involve investigating discrepancies between data sources, validating analytical outputs and translating findings into clear recommendations.
+
+I also train aspiring analysts in SQL, Excel and Power BI, which has strengthened my ability to communicate technical findings clearly to both technical and non-technical audiences.
 
 </td>
 </tr>
