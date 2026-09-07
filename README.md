@@ -38,7 +38,7 @@
   <text x="450" y="278" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5D77B8" letter-spacing="4">FOUNDER · MEDLYTICS CONSULTING</text>
 </svg>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3600&pause=1200&color=93C5FD&center=true&vCenter=true&width=820&height=45&lines=Business+Intelligence+Consultant;Audit+&+Risk+Analytics;Healthcare+Analytics+Specialist;Insurance+Analytics+Expert;Executive+Dashboard+Developer;Business+Performance+Analytics;Power+BI+Solutions+Architect;Decision+Intelligence;Data+Storytelling;Healthcare+Data+Consultant;Insurance+Portfolio+Analytics;SQL+%26+PostgreSQL+Developer;Dimensional+Data+Modelling;Executive+Reporting;Transforming+Data+into+Business+Value;Business+Intelligence+for+Better+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3600&pause=1200&color=93C5FD&center=true&vCenter=true&width=820&height=45&lines=Business+Intelligence+Consultant;Audit+and+Risk+Analytics;Healthcare+Analytics+Specialist;Insurance+Analytics+Expert;Executive+Dashboard+Developer;Business+Performance+Analytics;Power+BI+Solutions+Architect;Decision+Intelligence;Data+Storytelling;Healthcare+Data+Consultant;Insurance+Portfolio+Analytics;SQL+%26+PostgreSQL+Developer;Dimensional+Data+Modelling;Executive+Reporting;Transforming+Data+into+Business+Value;Business+Intelligence+for+Better+Decisions)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=oluwasegun-shobowale&style=flat-square&color=1E3A8A&label=PROFILE+VIEWS"/>
 
