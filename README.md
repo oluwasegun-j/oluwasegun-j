@@ -435,29 +435,29 @@ Coming Soon
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oluwasegun_j&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F2C&title_color=93C5FD&icon_color=3B82F6&text_color=E2E8F7"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwasegun_j&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F2C&title_color=93C5FD&text_color=E2E8F7"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=oluwasegun-j&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F2C&title_color=93C5FD&icon_color=3B82F6&text_color=E2E8F7"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwasegun-j&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F2C&title_color=93C5FD&text_color=E2E8F7"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oluwasegun_j&theme=tokyonight&hide_border=true&background=0A0F2C&stroke=1E3A8A&ring=3B82F6&fire=93C5FD&currStreakLabel=93C5FD"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oluwasegun-j&theme=tokyonight&hide_border=true&background=0A0F2C&stroke=1E3A8A&ring=3B82F6&fire=93C5FD&currStreakLabel=93C5FD"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oluwasegun_j&theme=react-dark&hide_border=true&bg_color=0A0F2C&color=93C5FD&line=3B82F6&point=F5F7FF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oluwasegun-j&theme=react-dark&hide_border=true&bg_color=0A0F2C&color=93C5FD&line=3B82F6&point=F5F7FF"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/oluwasegun_j/oluwasegun_j/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/oluwasegun-j/oluwasegun-j/output/github-contribution-grid-snake-dark.svg"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=oluwasegun_j&theme=nightowl&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=oluwasegun-j&theme=nightowl&no-frame=true&row=1&column=6"/>
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/oluwasegun_j?style=for-the-badge&color=1E3A8A&labelColor=0A0F2C"/>
-<img src="https://img.shields.io/github/stars/oluwasegun_j?style=for-the-badge&color=1E3A8A&labelColor=0A0F2C"/>
+<img src="https://img.shields.io/github/followers/oluwasegun-j?style=for-the-badge&color=1E3A8A&labelColor=0A0F2C"/>
+<img src="https://img.shields.io/github/stars/oluwasegun-j?style=for-the-badge&color=1E3A8A&labelColor=0A0F2C"/>
 
 </div>
 
