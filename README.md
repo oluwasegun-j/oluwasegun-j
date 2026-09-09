@@ -38,7 +38,7 @@
   <text x="450" y="278" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5D77B8" letter-spacing="4">Data Analytics · BI · Data Modelling · Python · Decision Support</text>
 </svg>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3600&pause=1200&color=93C5FD&center=true&vCenter=true&width=820&height=45&lines=Data+Analyst;Business+Intelligence;SQL+And+Data+Modelling;Power+BI+&+Executive+Reporting;Python+and+Data+Analysis;Turning+Data+Into+Business+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3600&pause=1200&color=93C5FD&center=true&vCenter=true&width=820&height=45&lines=Data+Analyst;Business+Intelligence;SQL+and+Data+Modelling;Power+BI+&+Executive+Reporting;Python+and+Data+Analysis;Turning+Data+Into+Business+Decisions)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=oluwasegun-shobowale&style=flat-square&color=1E3A8A&label=PROFILE+VIEWS"/>
 
@@ -87,15 +87,15 @@ I also train aspiring analysts in SQL, Excel and Power BI, which has strengthene
 
 <table>
 <tr>
-<td align="center" width="20%">📊<br/><b>Business Intelligence</b></td>
-<td align="center" width="20%">📈<br/><b>Executive Reporting</b></td>
-<td align="center" width="20%">🏥<br/><b>Healthcare Analytics</b></td>
-<td align="center" width="20%">🛡️<br/><b>Insurance Analytics</b></td>
-<td align="center" width="20%">🖥️<br/><b>Dashboard Development</b></td>
+<td align="center" width="20%">📊<br/><b>Data Analytics</b></td>
+<td align="center" width="20%">📈<br/><b>Business Intelligence</b></td>
+<td align="center" width="20%">🏥<br/><b>SQL and Data Transformation</b></td>
+<td align="center" width="20%">🛡️<br/><b>Data Modelling</b></td>
+<td align="center" width="20%">🖥️<br/><b>Power BI and Executive Reportingt</b></td>
 </tr>
 <tr>
 <td align="center">🗣️<br/><b>Data Storytelling</b></td>
-<td align="center">📐<br/><b>Data Modelling</b></td>
+<td align="center">📐<br/><b>Process Improvement and Automation</b></td>
 <td align="center">🔄<br/><b>ETL</b></td>
 <td align="center">🧭<br/><b>Decision Support</b></td>
 <td align="center">🤝<br/><b>Analytics Consulting</b></td>
