@@ -42,57 +42,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=oluwasegun-shobowale&style=flat-square&color=1E3A8A&label=PROFILE+VIEWS"/>
 
-</div>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="16%">
-
-**🏥**
-<br/>
-Healthcare Analytics
-
-</td>
-<td align="center" width="16%">
-
-**🛡️**
-<br/>
-Audit & Risk Analytics
-
-</td>
-<td align="center" width="16%">
-
-**📊**
-<br/>
-Executive Dashboards
-
-</td>
-<td align="center" width="16%">
-
-**🧠**
-<br/>
-Business Intelligence
-
-</td>
-<td align="center" width="18%">
-
-**🎓**
-<br/>
-Analytics Instructor
-
-</td>
-<td align="center" width="18%">
-
-**🚀**
-<br/>
-Founder, Medlytics
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
