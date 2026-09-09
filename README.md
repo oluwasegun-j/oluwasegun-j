@@ -107,40 +107,6 @@ I also train aspiring analysts in SQL, Excel and Power BI, which has strengthene
 
 </div>
 
-<br/>
-
----
-
-<h2 align="center">What I Do</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">🏥<br/><b>Audit & Risk Analytics</b></td>
-<td align="center" width="20%">🏥<br/><b>Healthcare Analytics</b></td>
-<td align="center" width="20%">🛡️<br/><b>Insurance Analytics</b></td>
-<td align="center" width="20%">📊<br/><b>Executive Dashboards</b></td>
-<td align="center" width="20%">⚡<br/><b>Power BI Solutions</b></td>
-<td align="center" width="20%">🗄️<br/><b>SQL Development</b></td>
-</tr>
-<tr>
-<td align="center">🔄<br/><b>ETL</b></td>
-<td align="center">🧹<br/><b>Data Cleaning</b></td>
-<td align="center">📐<br/><b>Data Modelling</b></td>
-<td align="center">🎯<br/><b>KPI Framework Design</b></td>
-<td align="center">🤝<br/><b>Analytics Consulting</b></td>
-</tr>
-<tr>
-<td align="center" colspan="5">🏫<br/><b>Corporate Training</b></td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
 
 </div>
 
