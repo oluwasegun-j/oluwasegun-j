@@ -28,17 +28,17 @@
 
   <text x="450" y="120" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#F5F7FF" letter-spacing="2">OLUWASEGUN SHOBOWALE</text>
 
-  <text x="450" y="160" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#93C5FD" letter-spacing="3">DATA ANALYST · BUSINESS INTELLIGENCE · AUDIT & RISK ANALYTICS</text>
+  <text x="450" y="160" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#93C5FD" letter-spacing="3">DATA ANALYST · BUSINESS INTELLIGENCE · SQL · POWER BI · TABLEAU · PYTHON</text>
 
   <rect x="325" y="182" width="250" height="1" fill="#2A3F73"/>
 
   <text x="450" y="215" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#E2E8F7">Transforming Complex Data into</text>
-  <text x="450" y="242" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#E2E8F7">Executive Business Decisions.</text>
+  <text x="450" y="242" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#E2E8F7">Confident Business Decisions.</text>
 
-  <text x="450" y="278" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5D77B8" letter-spacing="4">FOUNDER · MEDLYTICS CONSULTING</text>
+  <text x="450" y="278" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5D77B8" letter-spacing="4">Data Analytics · BI · Data Modelling · Python · Decision Support</text>
 </svg>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3600&pause=1200&color=93C5FD&center=true&vCenter=true&width=820&height=45&lines=Business+Intelligence+Consultant;Audit+and+Risk+Analytics;Healthcare+Analytics+Specialist;Insurance+Analytics+Expert;Executive+Dashboard+Developer;Business+Performance+Analytics;Power+BI+Solutions+Architect;Decision+Intelligence;Data+Storytelling;Healthcare+Data+Consultant;Insurance+Portfolio+Analytics;SQL+%26+PostgreSQL+Developer;Dimensional+Data+Modelling;Executive+Reporting;Transforming+Data+into+Business+Value;Business+Intelligence+for+Better+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3600&pause=1200&color=93C5FD&center=true&vCenter=true&width=820&height=45&lines=Data+Analyst;Business+Intelligence;SQL+And+Data+Modelling;Power+BI+&+Executive+Reporting;Python+and+Data+Analysis;Turning+Data+Into+Business+Decisions)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=oluwasegun-shobowale&style=flat-square&color=1E3A8A&label=PROFILE+VIEWS"/>
 
@@ -114,9 +114,9 @@ Founder, Medlytics
 <tr>
 <td width="900">
 
-I work at the intersection of data analytics, business intelligence, and risk-focused decision support — helping organizations turn complex operational and financial data into reliable evidence for better decisions.
+I work at the intersection of data analytics, business intelligence, and decision support. Helping organizations turn complex operational and financial data into reliable evidence for better decisions.
 
-My work involves cleaning, validating, reconciling, modelling and analysing data to uncover patterns, anomalies, performance gaps and potential areas of risk. I build analytical solutions that help answer not just what happened, but why it happened, where the exposure is, and what management should do next.
+My work involves cleaning, validating, reconciling, modelling and analysing data to uncover patterns, anomalies, performance gaps and potential areas of risk and opportunities. I build analytical solutions that help answer not just what happened, but why it happened, where the exposure is, and what management should do next.
 
 Using SQL, Power BI, DAX, Python and Advanced Excel, I develop dimensional data models, automated reporting solutions and executive dashboards that turn fragmented data into structured, decision-ready information.
 
@@ -192,6 +192,72 @@ I also train aspiring analysts in SQL, Excel and Power BI, which has strengthene
 <br/>
 
 ---
+
+</div>
+
+<br/>
+
+---
+
+## WHAT I DO
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Business Intelligence
+
+Build interactive Power BI dashboards, KPI frameworks, executive reports, and decision-support solutions that turn complex data into clear business insights.
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Data Analytics
+
+Analyse business, operational, customer, financial, healthcare, and insurance data to uncover trends, patterns, performance gaps, and opportunities.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ SQL & Data Modelling
+
+Extract, transform, validate, reconcile, and structure data using SQL, relational databases, and dimensional data modelling.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Data Preparation & Automation
+
+Clean, transform, and automate analytical workflows using Power Query, Excel, Python, and repeatable data-processing techniques.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Decision Support
+
+Translate analytical findings into actionable insights, performance measures, recommendations, and management reporting that support better decisions.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Analytics Training & Mentoring
+
+Teach SQL, Excel, Power BI, and practical data analytics while guiding learners through real-world analytical projects and business problems.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
 
 <h2 align="center" id="featured-projects">Featured Projects</h2>
 
